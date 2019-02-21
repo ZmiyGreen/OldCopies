@@ -1,0 +1,7 @@
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\bin\Debug\SharpDataClass.exe.config
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\bin\Debug\SharpDataClass.exe
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\bin\Debug\SharpDataClass.pdb
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\obj\Debug\SharpDataClass.csprojAssemblyReference.cache
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\obj\Debug\SharpDataClass.csproj.CoreCompileInputs.cache
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\obj\Debug\SharpDataClass.exe
+C:\Users\RTFE4\source\repos\SharpDataClass\SharpDataClass\obj\Debug\SharpDataClass.pdb

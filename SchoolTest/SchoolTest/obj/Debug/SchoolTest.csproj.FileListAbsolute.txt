@@ -1,0 +1,7 @@
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\bin\Debug\SchoolTest.exe.config
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\bin\Debug\SchoolTest.exe
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\bin\Debug\SchoolTest.pdb
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\obj\Debug\SchoolTest.csprojAssemblyReference.cache
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\obj\Debug\SchoolTest.csproj.CoreCompileInputs.cache
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\obj\Debug\SchoolTest.exe
+C:\Users\RTFE4\source\repos\SchoolTest\SchoolTest\obj\Debug\SchoolTest.pdb

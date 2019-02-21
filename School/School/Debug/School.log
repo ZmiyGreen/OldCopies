@@ -1,0 +1,3 @@
+﻿  School.cpp
+c:\users\rtfe4\source\repos\school\school\school.cpp(13): warning C4091: static : пропускается слева от "Input", когда ни одна переменная не объявлена
+  School.vcxproj -> C:\Users\RTFE4\source\repos\School\Debug\School.exe

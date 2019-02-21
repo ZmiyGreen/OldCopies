@@ -1,0 +1,7 @@
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\bin\Debug\SharpFactorial.exe.config
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\bin\Debug\SharpFactorial.exe
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\bin\Debug\SharpFactorial.pdb
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\obj\Debug\SharpFactorial.csprojAssemblyReference.cache
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\obj\Debug\SharpFactorial.csproj.CoreCompileInputs.cache
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\obj\Debug\SharpFactorial.exe
+C:\Users\RTFE4\source\repos\SharpFactorial\SharpFactorial\obj\Debug\SharpFactorial.pdb
