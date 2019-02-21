@@ -1,0 +1,7 @@
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\bin\Debug\MyTimeClass.exe.config
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\bin\Debug\MyTimeClass.exe
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\bin\Debug\MyTimeClass.pdb
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\obj\Debug\MyTimeClass.csprojAssemblyReference.cache
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\obj\Debug\MyTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\obj\Debug\MyTimeClass.exe
+C:\Users\RTFE4\source\repos\MyTimeClass\MyTimeClass\obj\Debug\MyTimeClass.pdb

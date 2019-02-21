@@ -1,0 +1,5 @@
+﻿  Factorial.cpp
+c:\users\rtfe4\source\repos\factorial\factorial\factorial.cpp(21): warning C4091: static : пропускается слева от "Factorial", когда ни одна переменная не объявлена
+c:\users\rtfe4\source\repos\factorial\factorial\factorial.cpp(10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\rtfe4\source\repos\factorial\factorial\factorial.cpp(19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Factorial.vcxproj -> C:\Users\RTFE4\source\repos\Factorial\Debug\Factorial.exe
