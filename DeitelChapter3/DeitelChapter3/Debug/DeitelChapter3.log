@@ -1,0 +1,3 @@
+﻿  DeitelChapter3.cpp
+c:\users\rtfe4\source\repos\deitelchapter3\deitelchapter3\chapter3.h(256): warning C4091: static : пропускается слева от "Collections", когда ни одна переменная не объявлена
+  DeitelChapter3.vcxproj -> C:\Users\RTFE4\source\repos\DeitelChapter3\Debug\DeitelChapter3.exe

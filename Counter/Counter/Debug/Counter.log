@@ -1,0 +1,3 @@
+﻿  Counter.cpp
+c:\users\rtfe4\source\repos\counter\counter\trim.h(27): warning C4091: static : пропускается слева от "Trim", когда ни одна переменная не объявлена
+  Counter.vcxproj -> C:\Users\RTFE4\source\repos\Counter\Debug\Counter.exe

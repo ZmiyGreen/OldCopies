@@ -1,0 +1,3 @@
+﻿  DeitelChapter9.cpp
+c:\users\rtfe4\source\repos\deitelchapter9\deitelchapter9\deitelchapter9.cpp(57): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  DeitelChapter9.vcxproj -> C:\Users\RTFE4\source\repos\DeitelChapter9\Debug\DeitelChapter9.exe
